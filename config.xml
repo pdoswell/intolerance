@@ -12,4 +12,5 @@
 
     <plugin name="cordova-plugin-mobile-ocr" source="npm" spec="~1.0.1" />
     <plugin name="cordova-plugin-camera" source="npm" spec="~2.1.1" />
+    <plugin name="cordova-plugin-add-swift-support" source="npm" spec="~1.7.2" />
 </widget>
